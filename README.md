@@ -4,7 +4,7 @@ Autor: Michael Ewerton Oliveira Curso: Engenharia de Software – UniCesumar Dis
 Contextualização do Projeto
 Este projeto teve como objetivo identificar e analisar os principais riscos envolvidos no desenvolvimento de um sistema de atendimento ao cliente para o Centro de Condicionamento Físico (CCF) de Paulo, um empreendedor da área de saúde e bem-estar. A atividade exigiu uma abordagem realista e estratégica para propor ações preventivas, medidas de mitigação e formas de avaliação dos riscos, considerando o cenário organizacional e tecnológico da empresa.
 
-⚠Riscos Identificados e Estratégias
+Riscos Identificados e Estratégias
 Risco	Prevenção	Mitigação	Avaliação
 Alta Rotatividade de Funcionários	Contratos atrativos, ambiente motivador, capacitação contínua	Banco de talentos, treinamentos rápidos	Monitoramento da taxa de rotatividade e pesquisas de satisfação
 Dificuldade de Expressar Necessidades	Workshops, prototipagem, escuta ativa	Comunicação constante, documentação de reuniões	Revisões periódicas dos requisitos e validação com stakeholders
